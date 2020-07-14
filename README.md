@@ -12,4 +12,4 @@ I 💓 travelling 🏞 and futsal ⚽
 
 ### Languages and Tools:
 
-<img src="assets/stack.svg"/>
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack.svg" alt="stacks"/>
