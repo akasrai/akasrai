@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align="center"> Hi there 👋</h2>
 
-#### I'm Akas, a self-motivated Tech Enthusiast and Full Stack Web developer.
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-🔭 I’m currently working as full stack developer [@machnetinc](https://github.com/machnetinc)  
-🌱 I’m currently learning [react-native with typescript](https://github.com/akasrai/daily-quiz-mobile)  
-💬 Ask me about anything [@akaskyiar](https://twitter.com/akaskyiar)  
-📫 How to reach me: [@akaskyiar](https://twitter.com/akaskyiar)  
-😄 Pronouns: he/him
+<h6 align="center">
+🔭 full stack developer<a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akaskyiar">@akaskyiar</a>
+</p>
 
-I 💓 travelling 🏞 and futsal ⚽
+<h4 align="center">
+My Stacks
+</h4>
 
-### Languages and Tools:
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack.svg" alt="stacks"/>
 </h1>
