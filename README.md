@@ -11,5 +11,6 @@
 I 💓 travelling 🏞 and futsal ⚽
 
 ### Languages and Tools:
-
+<h1 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack.svg" alt="stacks"/>
+</h1>
