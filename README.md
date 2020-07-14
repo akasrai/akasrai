@@ -13,5 +13,5 @@ My Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack.svg" alt="stacks"/>
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
 </h3>
