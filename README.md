@@ -13,7 +13,7 @@ I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 
 <br/>
 <h3 align="center">
-My Stacks
+My Tech Stacks
 </h3>
 
 <h3 align="center">
